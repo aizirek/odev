@@ -7,19 +7,7 @@ public class world {
     public  static void main(String[] args){
         System.err.println("salam");
         System.err.println("Привет");
-        System.err.println("Merhaba");
-        System.err.println("Hello");
-
-        System.err.println("salam");
-        System.err.println("Привет");
-        System.err.println("Merhaba");
-        System.err.println("Hello");
-
-        System.err.println("salam");
-        System.err.println("Привет");
-        System.err.println("Merhaba");
-        System.err.println("Hello");
-
+    
 
 
 
